@@ -498,3 +498,48 @@ x==========x]
 [2023-12-27 11:39:02,017: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2023-12-27 12:05:26,529: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-27 12:05:26,532: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-12-27 12:05:26,534: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:05:26,534: INFO: common: created directory at: artifacts]
+[2023-12-27 12:05:26,534: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-12-27 12:05:26,534: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1QIJhMWnvUwhLbtaejhAqksQ0L3V1NWJp/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:05:36,484: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1QIJhMWnvUwhLbtaejhAqksQ0L3V1NWJp/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-12-27 12:05:37,214: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-27 12:05:41,963: INFO: stage_02_prepare_base_model: *******************]
+[2023-12-27 12:05:41,963: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2023-12-27 12:05:41,967: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-12-27 12:05:41,968: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:05:41,969: INFO: common: created directory at: artifacts]
+[2023-12-27 12:05:41,969: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-12-27 12:05:42,569: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-12-27 12:05:42,997: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2023-12-27 12:05:46,664: INFO: stage_03_model_training: *******************]
+[2023-12-27 12:05:46,665: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2023-12-27 12:05:46,667: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-12-27 12:05:46,668: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:05:46,668: INFO: common: created directory at: artifacts]
+[2023-12-27 12:05:46,668: INFO: common: created directory at: artifacts/training]
+[2023-12-27 12:06:23,868: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2023-12-27 12:06:29,936: INFO: stage_04_model_evaluation: *******************]
+[2023-12-27 12:06:29,936: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2023-12-27 12:06:29,939: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-12-27 12:06:29,941: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-12-27 12:06:29,942: INFO: common: created directory at: artifacts]
+[2023-12-27 12:06:41,215: INFO: common: json file saved at: scores.json]
+[2023-12-27 12:06:41,215: INFO: common: json file saved at: scores.json]
+[2023-12-27 12:06:42,643: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2023-12-27 12:06:43,093: INFO: builder_impl: Assets written to: /tmp/tmpfmhvmgaj/model/data/model/assets]
+[2023-12-27 12:06:46,872: INFO: dir_util: creating /home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/a1ffef4acd2941fcaf9abb23716a7cd0/artifacts/model/data]
+[2023-12-27 12:06:46,872: INFO: dir_util: creating /home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/a1ffef4acd2941fcaf9abb23716a7cd0/artifacts/model/data/model]
+[2023-12-27 12:06:46,873: INFO: dir_util: creating /home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/a1ffef4acd2941fcaf9abb23716a7cd0/artifacts/model/data/model/variables]
+[2023-12-27 12:06:46,949: INFO: dir_util: creating /home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/a1ffef4acd2941fcaf9abb23716a7cd0/artifacts/model/data/model/assets]
+[2023-12-27 12:06:46,967: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
