@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/8d1fcaea358d4797a6ec6aa73d957f16/artifacts
+end_time: 1703656212341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d1fcaea358d4797a6ec6aa73d957f16
+run_name: magnificent-lamb-10
+run_uuid: 8d1fcaea358d4797a6ec6aa73d957f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703656206028
+status: 3
+tags: []
+user_id: jubbu

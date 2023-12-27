@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/5beea6a8f1c54f3cb6f8de7e3d2a5491/artifacts
+end_time: 1703657220897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5beea6a8f1c54f3cb6f8de7e3d2a5491
+run_name: masked-skunk-121
+run_uuid: 5beea6a8f1c54f3cb6f8de7e3d2a5491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703657215662
+status: 3
+tags: []
+user_id: jubbu

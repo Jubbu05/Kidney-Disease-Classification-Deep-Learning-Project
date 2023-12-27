@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/7e9e88f14a614aa8a8c834ff8c348cd7/artifacts
+end_time: 1703657342016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e9e88f14a614aa8a8c834ff8c348cd7
+run_name: painted-gnat-318
+run_uuid: 7e9e88f14a614aa8a8c834ff8c348cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703657335198
+status: 3
+tags: []
+user_id: jubbu

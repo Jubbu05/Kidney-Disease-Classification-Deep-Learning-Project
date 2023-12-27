@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/4168f3013a674f46888759ebb43102dc/artifacts
+end_time: 1703657133577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4168f3013a674f46888759ebb43102dc
+run_name: defiant-newt-123
+run_uuid: 4168f3013a674f46888759ebb43102dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703657128071
+status: 3
+tags: []
+user_id: jubbu

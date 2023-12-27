@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jubbu/Desktop/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/8c273b593a4e4e94815ba1e250ccd125/artifacts
+end_time: 1703656591475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c273b593a4e4e94815ba1e250ccd125
+run_name: masked-calf-529
+run_uuid: 8c273b593a4e4e94815ba1e250ccd125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703656586212
+status: 3
+tags: []
+user_id: jubbu
