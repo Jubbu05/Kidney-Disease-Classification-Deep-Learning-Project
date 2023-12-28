@@ -1,5 +1,9 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Jubbu05/CV_Parking_Space_Counter.svg)](https://github.com/Jubbu05/Kidney-Disease-Classification-Deep-Learning-Project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jubbu05/CV_Parking_Space_Counter.svg)](https://github.com/Jubbu05/Kidney-Disease-Classification-Deep-Learning-Project/network)
+
 ## Workflows
 
 1. Update config.yaml
